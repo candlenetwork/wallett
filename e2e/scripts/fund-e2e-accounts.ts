@@ -25,7 +25,7 @@ interface Token {
 
 const CNDL: Token = {
   symbol: 'CNDL',
-  address: utils.getAddress('0x471ece3750da237f93b8e339c536989b8978a438'),
+  address: utils.getAddress('0x3f25F0f9Bc93e0E45242a33Fc0FF75FC8Fb423a0'), // pepe address on candle chain
   decimals: 18,
 }
 const CUSD: Token = {
